@@ -2,7 +2,7 @@
   background: #070420;
 }
 
-.dark #topbar-cta-button a {
+.dark #topbar-cta-button a span{
   background: linear-gradient(90deg, #5B3FFF, #7A5BFF);
   color: #fff !important;
   font-weight: 600;
@@ -11,7 +11,7 @@
   box-shadow: 0 4px 12px rgba(91,63,255,0.3);
 }
 
-.dark #topbar-cta-button a:hover {
+.dark #topbar-cta-button a span:hover {
   opacity: 0.9;
   transform: translateY(-1px);
 }
