@@ -1,3 +1,7 @@
 .light a:has(.nav-logo) {
   background: black;
 }
+
+.dark body {
+  --background-dark: red;
+}
