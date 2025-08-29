@@ -8,6 +8,9 @@
     "light": "#F8FAFC",
     "dark": "#0F172A"
   },
+  "fonts": {
+    "family": "Poppins"
+  },
   "favicon": "/favicon.png",
   "navigation": {
     "tabs": [
