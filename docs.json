@@ -23,9 +23,18 @@
           {
             "group": "Themes",
             "pages": [
-              "themes/release",
               "themes/sahara",
               "themes/mojave"
+            ],
+            "groups": [
+              {
+                "group": "Release",
+                "pages": [
+                  "themes/release/v1",
+                  "themes/release/v2",
+                  "themes/release/v3"
+                ]
+              }
             ]
           },
           {
