@@ -74,8 +74,10 @@
                                                       {
                 "group": "Merchandising",
                 "pages": [
-                  "themes/release/merchandising/index",
-                  "themes/release/merchandising/index2"
+                  "themes/release/merchandising/color-swatches",
+                  "themes/release/merchandising/size-charts",
+                  "themes/release/merchandising/badges-labels",
+                  "themes/release/merchandising/product-media"
                 ]
               },
                                                                         {
