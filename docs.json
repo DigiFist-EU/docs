@@ -9,194 +9,66 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Overview",
+        "tab": "Documentation",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Overview",
             "pages": [
               "index",
-              "quickstart",
-              "development"
+              "howto",
+              "support",
+              "global-changelog"
             ]
           },
           {
-            "group": "Customization",
+            "group": "Themes",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              "themes/release",
+              "themes/sahara",
+              "themes/mojave"
             ]
           },
           {
-            "group": "Writing content",
+            "group": "Apps",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
+              "apps/app1",
+              "apps/app2"
             ]
           },
           {
-            "group": "AI tools",
+            "group": "Guides",
             "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "Themes",
-        "groups": [
-          {
-            "group": "Release Theme",
-            "pages": [
-              "api-reference/introduction"
+              "guides/multi-currency",
+              "guides/seo",
+              "guides/speed-core-web-vitals",
+              "guides/translations"
             ]
           },
           {
-            "group": "Endpoint examples",
+            "group": "Reference",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "Apps",
-        "groups": [
-          {
-            "group": "App1",
-            "pages": [
-              "api-reference/introduction"
+              "reference/theme-settings",
+              "reference/sections",
+              "reference/liquid-objects",
+              "reference/css-variables",
+              "reference/javascript-events"
             ]
           },
           {
-            "group": "App2",
+            "group": "Support",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "Guides",
-        "groups": [
-          {
-            "group": "Multi-currency & Markets",
-            "pages": [
-              "api-reference/introduction"
+              "support/faqs",
+              "support/troubleshooting",
+              "support/known-issues",
+              "support/contact-support",
             ]
           },
           {
-            "group": "SEO on DigiFist themes",
+            "group": "Governance",
             "pages": [
-              "api-reference/endpoint/get"
-            ]
-          },
-          {
-            "group": "Speed & Core Web Vitals",
-            "pages": [
-              "api-reference/endpoint/get"
-            ]
-          },
-          {
-            "group": "Translations & RTL",
-            "pages": [
-              "api-reference/endpoint/get"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "Reference",
-        "groups": [
-          {
-            "group": "Theme settings schema",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Sections & blocks catalog",
-            "pages": [
-              "api-reference/endpoint/get"
-            ]
-          },
-          {
-            "group": "Liquid objects & events",
-            "pages": [
-              "api-reference/endpoint/get"
-            ]
-          },
-          {
-            "group": "CSS variables / design tokens",
-            "pages": [
-              "api-reference/endpoint/get"
-            ]
-          },
-          {
-            "group": "Javascript events",
-            "pages": [
-              "api-reference/endpoint/get"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "Support",
-        "groups": [
-          {
-            "group": "FAQs",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Troubleshooting",
-            "pages": [
-              "api-reference/endpoint/get"
-            ]
-          },
-          {
-            "group": "Known issues",
-            "pages": [
-              "api-reference/endpoint/get"
-            ]
-          },
-          {
-            "group": "Contact Support",
-            "pages": [
-              "api-reference/endpoint/get"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "Governance",
-        "groups": [
-          {
-            "group": "Deprecations & timelines",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Compatibility matrix",
-            "pages": [
-              "api-reference/endpoint/get"
-            ]
-          },
-          {
-            "group": "Docs style guide",
-            "pages": [
-              "api-reference/endpoint/get"
+              "governance/deprecations",
+              "governance/compatibility",
+              "governance/docs-style"
             ]
           }
         ]
@@ -205,18 +77,18 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
+          "anchor": "Shopify Themes",
+          "href": "https://www.digifist.com/en/themes",
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
+          "anchor": "Clients",
+          "href": "https://www.digifist.com/en/case-studies",
           "icon": "slack"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "anchor": "Contact",
+          "href": "https://www.digifist.com/help-center/contact-us",
           "icon": "newspaper"
         }
       ]
