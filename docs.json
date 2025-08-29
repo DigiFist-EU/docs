@@ -24,9 +24,7 @@
             "group": "Themes",
             "pages": [
               "themes/sahara",
-              "themes/mojave"
-            ],
-            "groups": [
+              "themes/mojave",
               {
                 "group": "Release",
                 "pages": [
