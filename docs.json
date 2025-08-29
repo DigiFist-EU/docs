@@ -15,7 +15,12 @@
     }
   },
   "fonts": {
-    "family": "Poppins"
+    "body": {
+      "family": "Poppins"
+    },
+    "heading": {
+      "family": "Inter"
+    }
   },
   "favicon": "/favicon.png",
   "navigation": {
