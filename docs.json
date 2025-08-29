@@ -64,6 +64,142 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Apps",
+        "groups": [
+          {
+            "group": "App1",
+            "pages": [
+              "api-reference/introduction"
+            ]
+          },
+          {
+            "group": "App2",
+            "pages": [
+              "api-reference/endpoint/get",
+              "api-reference/endpoint/create",
+              "api-reference/endpoint/delete",
+              "api-reference/endpoint/webhook"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Guides",
+        "groups": [
+          {
+            "group": "Multi-currency & Markets",
+            "pages": [
+              "api-reference/introduction"
+            ]
+          },
+          {
+            "group": "SEO on DigiFist themes",
+            "pages": [
+              "api-reference/endpoint/get"
+            ]
+          },
+          {
+            "group": "Speed & Core Web Vitals",
+            "pages": [
+              "api-reference/endpoint/get"
+            ]
+          },
+          {
+            "group": "Translations & RTL",
+            "pages": [
+              "api-reference/endpoint/get"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Reference",
+        "groups": [
+          {
+            "group": "Theme settings schema",
+            "pages": [
+              "api-reference/introduction"
+            ]
+          },
+          {
+            "group": "Sections & blocks catalog",
+            "pages": [
+              "api-reference/endpoint/get"
+            ]
+          },
+          {
+            "group": "Liquid objects & events",
+            "pages": [
+              "api-reference/endpoint/get"
+            ]
+          },
+          {
+            "group": "CSS variables / design tokens",
+            "pages": [
+              "api-reference/endpoint/get"
+            ]
+          },
+          {
+            "group": "Javascript events",
+            "pages": [
+              "api-reference/endpoint/get"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Support",
+        "groups": [
+          {
+            "group": "FAQs",
+            "pages": [
+              "api-reference/introduction"
+            ]
+          },
+          {
+            "group": "Troubleshooting",
+            "pages": [
+              "api-reference/endpoint/get"
+            ]
+          },
+          {
+            "group": "Known issues",
+            "pages": [
+              "api-reference/endpoint/get"
+            ]
+          },
+          {
+            "group": "Contact Support",
+            "pages": [
+              "api-reference/endpoint/get"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Governance",
+        "groups": [
+          {
+            "group": "Deprecations & timelines",
+            "pages": [
+              "api-reference/introduction"
+            ]
+          },
+          {
+            "group": "Compatibility matrix",
+            "pages": [
+              "api-reference/endpoint/get"
+            ]
+          },
+          {
+            "group": "Docs style guide",
+            "pages": [
+              "api-reference/endpoint/get"
+            ]
+          }
+        ]
       }
     ],
     "global": {
