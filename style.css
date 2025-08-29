@@ -1,6 +1,3 @@
-.light a:has(.nav-logo) {
-  background: #070420;
-}
 
 .dark #topbar-cta-button a > div {
   background: linear-gradient(90deg, #5B3FFF, #7A5BFF);
