@@ -1,9 +1,12 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Digifist Documentation",
+  "description": "Digifist Documentation page"
   "colors": {
-    "primary": "#5B3FFF"
+    "primary": "#3B82F6",
+    "light": "#F8FAFC",
+    "dark": "#0F172A"
   },
   "favicon": "/favicon.png",
   "navigation": {
