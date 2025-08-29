@@ -71,6 +71,63 @@
                   "themes/release/components/index2"
                 ]
               },
+                                                      {
+                "group": "Merchandising",
+                "pages": [
+                  "themes/release/merchandising/index",
+                  "themes/release/merchandising/index2"
+                ]
+              },
+                                                                        {
+                "group": "Cart Checkout",
+                "pages": [
+                  "themes/release/cart-checkout/index",
+                  "themes/release/cart-checkout/index2"
+                ]
+              },
+                                                                                          {
+                "group": "Performance",
+                "pages": [
+                  "themes/release/performance/index",
+                  "themes/release/performance/index2"
+                ]
+              },
+                      {
+                "group": "Accessibility",
+                "pages": [
+                  "themes/release/accessibility/index",
+                  "themes/release/accessibility/index2"
+                ]
+              },
+                                        {
+                "group": "Recipes",
+                "pages": [
+                  "themes/release/recipes/index",
+                  "themes/release/recipes/index2"
+                ]
+              },
+                                                          {
+                "group": "Troubleshooting",
+                "pages": [
+                  "themes/release/troubleshooting/index",
+                  "themes/release/troubleshooting/index2"
+                ]
+              },
+                                                                            {
+                "group": "Faq",
+                "pages": [
+                  "themes/release/faq/index",
+                  "themes/release/faq/index2"
+                ]
+              },
+                                                                                              {
+                "group": "Reference",
+                "pages": [
+                  "themes/release/reference/settings",
+                  "themes/release/reference/sections-blocks",
+                  "themes/release/reference/metafields"
+                ]
+              },
                   "themes/release/release-notes"
                 ]
               }
