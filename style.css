@@ -2,7 +2,7 @@
   background: #070420;
 }
 
-.dark #topbar-cta-button a span{
+.dark #topbar-cta-button a span {
   background: linear-gradient(90deg, #5B3FFF, #7A5BFF);
   color: #fff !important;
   font-weight: 600;
