@@ -48,10 +48,10 @@
         ]
       },
       {
-        "tab": "API reference",
+        "tab": "Themes",
         "groups": [
           {
-            "group": "API documentation",
+            "group": "Release Theme",
             "pages": [
               "api-reference/introduction"
             ]
