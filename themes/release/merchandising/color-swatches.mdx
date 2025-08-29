@@ -1,0 +1,34 @@
+---
+title: "Color Swatches"
+description: "Show selectable color swatches on product and collection pages. Supports color names, hex codes, and custom images."
+---
+
+
+## What this does
+Displays color swatches for product variants on **product** and **collection** pages.
+
+**Use when**
+- Products have a **Color** option.
+- You want shoppers to preview and switch variants visually.
+
+## Prerequisites
+- Theme Release v2.3 or later.
+- Variants must include a Color option.
+
+## Enable swatches
+1. Go to **Theme Editor → Product pages → Variant selector → Style**.  
+2. Choose **Swatches**.  
+3. Optional: enable **Collection card swatches**.
+
+> **Tip**: Use consistent color names (`Black`, `Navy`) or append hex values (`Olive (#808000)`).
+
+## Image swatches
+Use a metafield:
+- Namespace: `custom`  
+- Key: `swatch_image`  
+- Type: File → Image
+
+```liquid
+{% if variant.metafields.custom.swatch_image %}
+  <img src="{{ variant.metafields.custom.swatch_image | image_url: width: 64 }}" alt="{{ variant.title }}">
+{% endif %}
