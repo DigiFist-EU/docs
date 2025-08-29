@@ -29,7 +29,48 @@
                 "group": "Release",
                 "pages": [
                   "themes/release/index",
-                  "themes/release/v2",
+                                {
+                "group": "Getting Started",
+                "pages": [
+                  "themes/release/getting-started/index",
+                  "themes/release/getting-started/index2"
+                ]
+              },
+                                                  {
+                "group": "Installation Updates",
+                "pages": [
+                  "themes/release/installation-updates/index",
+                  "themes/release/installation-updates/index2"
+                ]
+              },
+                                                                    {
+                "group": "Settings",
+                "pages": [
+                  "themes/release/settings/index",
+                  "themes/release/settings/index2"
+                ]
+              },
+                                                                                      {
+                "group": "Sections",
+                "pages": [
+                  "themes/release/sections/index",
+                  "themes/release/sections/index2"
+                ]
+              },
+                  {
+                "group": "Components",
+                "pages": [
+                  "themes/release/components/index",
+                  "themes/release/components/index2"
+                ]
+              },
+                                    {
+                "group": "Components",
+                "pages": [
+                  "themes/release/components/index",
+                  "themes/release/components/index2"
+                ]
+              },
                   "themes/release/release-notes"
                 ]
               }
