@@ -28,9 +28,9 @@
               {
                 "group": "Release",
                 "pages": [
-                  "themes/release/v1",
+                  "themes/release/index",
                   "themes/release/v2",
-                  "themes/release/v3"
+                  "themes/release/release-notes"
                 ]
               }
             ]
