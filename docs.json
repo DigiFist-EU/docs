@@ -8,6 +8,12 @@
     "light": "#F8FAFC",
     "dark": "#070420"
   },
+  "background": {
+    "color": {
+      "light": "#FFFFFF",
+      "dark": "#070420"
+    }
+  },
   "fonts": {
     "family": "Poppins"
   },
